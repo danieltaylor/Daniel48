@@ -384,13 +384,6 @@ hr {
   -webkit-transition-property: -webkit-transform;
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
-  .tile .tile-inner {
-    border-radius: 3px;
-    background: #eee4da;
-    text-align: center;
-    font-weight: bold;
-    z-index: 10;
-    font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: url('./img/daniel-2.jpg');
     background-size: cover;
