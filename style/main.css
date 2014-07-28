@@ -819,9 +819,6 @@ hr {
     -moz-transform: translate(202px, 202px);
     transform: translate(202px, 202px); }
 
-  .tile .tile-inner {
-    font-size: 35px; }
-
   .game-message {
     padding-top: 0; }
     .game-message p {
